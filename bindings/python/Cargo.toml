@@ -4,6 +4,7 @@ version = "0.20.0-dev.0"
 authors = ["Anthony MOI <m.anthony.moi@gmail.com>"]
 edition = "2021"
 
+
 [lib]
 name = "tokenizers"
 crate-type = ["cdylib"]
